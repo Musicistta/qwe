@@ -10,6 +10,7 @@ namespace _01_Swarm
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi");
         }
     }
 }
